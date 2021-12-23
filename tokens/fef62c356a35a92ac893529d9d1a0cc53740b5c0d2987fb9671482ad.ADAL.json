@@ -1,0 +1,9 @@
+{
+    "policyId": "fef62c356a35a92ac893529d9d1a0cc53740b5c0d2987fb9671482ad",
+    "name": "ADALend",
+    "symbol": "ADAL",
+    "website": "https://adalend.finance/",
+    "description": "Scalable and decentralized lending protocol governed by DAO.",
+    "totalSupply": 45000000, 
+    "amounts": [5, 10, 100, 500, 1000, 2000, 5000, 10000]
+}
