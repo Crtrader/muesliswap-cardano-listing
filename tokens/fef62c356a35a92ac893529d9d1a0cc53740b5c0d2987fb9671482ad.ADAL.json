@@ -6,5 +6,5 @@
     "description": "Scalable and decentralized lending protocol governed by DAO.",
     "totalSupply": 45000000, 
     "amounts": [5, 10, 100, 500, 1000, 2000, 5000, 10000]
-	"decimalPlaces": 2    
+    "decimalPlaces": 2    
 }
