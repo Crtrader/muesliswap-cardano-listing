@@ -1,0 +1,10 @@
+{
+    "policyId": "f381ff151bd0f2b7d39d8c48134f87ef2aa586a1f28f4d95758b078d",
+    "name": "Verlux",
+    "symbol": "VLX",
+    "website": "https://verlux.io/",
+    "description": "Verlux is A Decentralized Cross - Chain NFT Marketplace Built On The Cardano Blockchain.",
+    "totalSupply": 1000000000, 
+    "amounts": [5, 10, 100, 500, 1000, 2000, 5000, 10000, 50000, 100000]
+	"decimalPlaces": 2
+}
